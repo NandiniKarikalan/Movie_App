@@ -35,3 +35,15 @@ This is a simple web application that displays popular movies and allows users t
   `https://image.tmdb.org/t/p/w1280`
 
 > 🔑 Replace `YOUR_API_KEY` with your own TMDb API key in production.
+
+---
+
+🧑‍💻 Creator
+
+Developed by Nandini Karikalan
+
+---
+
+📄 License
+
+This project is open-source under the MIT License. Feel free to fork, improve, and share!
