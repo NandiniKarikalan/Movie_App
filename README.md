@@ -40,7 +40,7 @@ This is a simple web application that displays popular movies and allows users t
 
 🧑‍💻 Creator
 
-Developed by Nandini Karikalan
+Developed by Nandini Karikalan on 14.07.2025.
 
 ---
 
